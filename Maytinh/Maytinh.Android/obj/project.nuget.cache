@@ -1,0 +1,1146 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgpzLlxYh5A9sdnZXE9cTcwSSfQJdOXwGZoXMiMfxYcFaBNvR3+uCB/Galn+jZ0Mu9Zx3I1aWxt8i2xqMBUnjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vulek\\source\\repos\\Maytinh_App\\Maytinh\\Maytinh\\Maytinh.Android\\Maytinh.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vulek\\.nuget\\packages\\org.matheval\\1.0.0.3\\org.matheval.1.0.0.3.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.appcompat\\1.2.0.6\\xamarin.androidx.appcompat.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.appcompat.appcompatresources\\1.2.0.6\\xamarin.androidx.appcompat.appcompatresources.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.arch.core.common\\2.1.0.7\\xamarin.androidx.arch.core.common.2.1.0.7.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.arch.core.runtime\\2.1.0.7\\xamarin.androidx.arch.core.runtime.2.1.0.7.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.asynclayoutinflater\\1.0.0.6\\xamarin.androidx.asynclayoutinflater.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.browser\\1.3.0\\xamarin.androidx.browser.1.3.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.cardview\\1.0.0.6\\xamarin.androidx.cardview.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.collection\\1.1.0.6\\xamarin.androidx.collection.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.coordinatorlayout\\1.1.0.6\\xamarin.androidx.coordinatorlayout.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.core\\1.3.2.1\\xamarin.androidx.core.1.3.2.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.cursoradapter\\1.0.0.6\\xamarin.androidx.cursoradapter.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.customview\\1.1.0.4\\xamarin.androidx.customview.1.1.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.documentfile\\1.0.1.6\\xamarin.androidx.documentfile.1.0.1.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.drawerlayout\\1.1.1.1\\xamarin.androidx.drawerlayout.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.fragment\\1.2.5.4\\xamarin.androidx.fragment.1.2.5.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.interpolator\\1.0.0.6\\xamarin.androidx.interpolator.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.legacy.support.core.ui\\1.0.0.7\\xamarin.androidx.legacy.support.core.ui.1.0.0.7.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.legacy.support.core.utils\\1.0.0.6\\xamarin.androidx.legacy.support.core.utils.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.legacy.support.v4\\1.0.0.6\\xamarin.androidx.legacy.support.v4.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.common\\2.2.0.4\\xamarin.androidx.lifecycle.common.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.livedata\\2.2.0.4\\xamarin.androidx.lifecycle.livedata.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.livedata.core\\2.2.0.4\\xamarin.androidx.lifecycle.livedata.core.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.runtime\\2.2.0.4\\xamarin.androidx.lifecycle.runtime.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.viewmodel\\2.2.0.4\\xamarin.androidx.lifecycle.viewmodel.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.lifecycle.viewmodelsavedstate\\2.2.0.4\\xamarin.androidx.lifecycle.viewmodelsavedstate.2.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.loader\\1.1.0.6\\xamarin.androidx.loader.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.localbroadcastmanager\\1.0.0.6\\xamarin.androidx.localbroadcastmanager.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.media\\1.2.1.1\\xamarin.androidx.media.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.migration\\1.0.8\\xamarin.androidx.migration.1.0.8.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.multidex\\2.0.1.5\\xamarin.androidx.multidex.2.0.1.5.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.print\\1.0.0.6\\xamarin.androidx.print.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.recyclerview\\1.1.0.6\\xamarin.androidx.recyclerview.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.savedstate\\1.1.0.4-alpha01\\xamarin.androidx.savedstate.1.1.0.4-alpha01.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.slidingpanelayout\\1.1.0.1\\xamarin.androidx.slidingpanelayout.1.1.0.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.swiperefreshlayout\\1.1.0.1\\xamarin.androidx.swiperefreshlayout.1.1.0.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.transition\\1.3.1.6\\xamarin.androidx.transition.1.3.1.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.vectordrawable\\1.1.0.6\\xamarin.androidx.vectordrawable.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.vectordrawable.animated\\1.1.0.6\\xamarin.androidx.vectordrawable.animated.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.6\\xamarin.androidx.versionedparcelable.1.1.1.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.6\\xamarin.androidx.viewpager.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.8\\xamarin.androidx.viewpager2.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.google.android.material\\1.2.1.1\\xamarin.google.android.material.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Essentials' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Essentials'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Essentials"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Essentials' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Essentials'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Essentials"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'sqlite-net-pcl' from remote source 'https://www.nuget.org/FindPackagesById()?id='sqlite-net-pcl'&semVerLevel=2.0.0'.",
+      "libraryId": "sqlite-net-pcl"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'sqlite-net-pcl' from remote source 'https://www.nuget.org/FindPackagesById()?id='sqlite-net-pcl'&semVerLevel=2.0.0'.",
+      "libraryId": "sqlite-net-pcl"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Forms' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Forms'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Forms"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Forms' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Forms'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Forms"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'org.matheval' from remote source 'https://www.nuget.org/FindPackagesById()?id='org.matheval'&semVerLevel=2.0.0'.",
+      "libraryId": "org.matheval"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'org.matheval' from remote source 'https://www.nuget.org/FindPackagesById()?id='org.matheval'&semVerLevel=2.0.0'.",
+      "libraryId": "org.matheval"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_green' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.bundle_green'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_green"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_green' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.bundle_green'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_green"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Browser' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Browser'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Browser"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Browser' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Browser'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Browser"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.lib.e_sqlite3.android' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.lib.e_sqlite3.android'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3.android"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.lib.e_sqlite3.android' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.lib.e_sqlite3.android'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3.android"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.V4' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.V4'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.V4"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.V4' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.V4'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.V4"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Android.Material' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Android.Material'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Android.Material"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Android.Material' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Android.Material'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Android.Material"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Memory' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Memory' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Guava.ListenableFuture' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Guava.ListenableFuture' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Guava.ListenableFuture' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Google.Guava.ListenableFuture' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.LiveData' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.LiveData' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Media' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Media'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Media"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Media' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Media'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Media"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.Core.UI' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.UI"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.Core.UI' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.UI"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.LiveData.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.LiveData.Core' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.Core.Utils' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.Utils'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Legacy.Support.Core.Utils' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.Utils'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Arch.Core.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Fragment' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Fragment' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Migration' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Migration'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Migration"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Migration' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Migration'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Migration"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Migration' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Migration'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Migration"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Migration' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Migration'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Migration"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Buffers' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Buffers'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Buffers"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Buffers' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Buffers'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Buffers"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CoordinatorLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CoordinatorLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CoordinatorLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CoordinatorLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CardView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CardView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CardView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CardView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CardView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CardView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Runtime' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Runtime.CompilerServices.Unsafe' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.RecyclerView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.RecyclerView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.RecyclerView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Runtime.CompilerServices.Unsafe' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.RecyclerView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.RecyclerView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.RecyclerView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation.Experimental' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Annotation.Experimental' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.AppCompat' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.AppCompat'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.AppCompat"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.ViewPager2' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.ViewPager2'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.ViewPager2"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Transition' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Transition'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Transition"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Transition' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Transition'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Transition"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VersionedParcelable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VectorDrawable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.VectorDrawable' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.AppCompat' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.AppCompat'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.AppCompat"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.ViewPager2' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.ViewPager2'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.ViewPager2"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.DocumentFile' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.DocumentFile'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.DocumentFile"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.DocumentFile' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.DocumentFile'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.DocumentFile"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CustomView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CustomView' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Loader' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Loader' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Print' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Print'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Print"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Print' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Print'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Print"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.Common' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.LocalBroadcastManager' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.LocalBroadcastManager'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.LocalBroadcastManager' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.LocalBroadcastManager'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.AsyncLayoutInflater' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.AsyncLayoutInflater'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.AsyncLayoutInflater"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.AsyncLayoutInflater' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.AsyncLayoutInflater'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.AsyncLayoutInflater"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.ViewPager' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.ViewPager' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CursorAdapter' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CursorAdapter'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.CursorAdapter' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.CursorAdapter'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Interpolator' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Interpolator' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SlidingPaneLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SlidingPaneLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SlidingPaneLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SlidingPaneLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SwipeRefreshLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SwipeRefreshLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SwipeRefreshLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SwipeRefreshLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.DrawerLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.DrawerLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.DrawerLayout' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.DrawerLayout'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModel' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModel' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModel' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModel' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Collection' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Activity' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Activity' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Activity' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Activity' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModelSavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModelSavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModelSavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.Lifecycle.ViewModelSavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.AndroidX.SavedState' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    }
+  ]
+}

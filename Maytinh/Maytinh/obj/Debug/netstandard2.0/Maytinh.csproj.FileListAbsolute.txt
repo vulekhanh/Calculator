@@ -1,0 +1,168 @@
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.AssemblyReference.cache
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\TinhCoBan.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\BangGiaTri.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\HuongDanSuDung.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csprojAssemblyReference.cache
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\BangGiaTri.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\HuongDanSuDung.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\TinhCoBan.xaml.g.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+D:\Document\TERM 5\.Net\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.AssemblyReference.cache
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\BangGiaTri.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\HuongDanSuDung.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\TinhCoBan.xaml.g.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+D:\Clone githup\.Net\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.AssemblyReference.cache
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\BangGiaTri.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\HuongDanSuDung.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\LichSu.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\TinhCoBan.xaml.g.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Test\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.AssemblyReference.cache
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\LichSu.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+D:\hacker3.1\.NET\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.deps.json
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.dll
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\ref\Maytinh.dll
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\bin\Debug\netstandard2.0\Maytinh.pdb
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ChucNang.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\DoiDonVi.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT2An.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiHPT3An.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac2.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBac3.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\GiaiPTBacNhat.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\KiemTraSNT.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac2.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimCucTriHamBac3.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\TimUCLNBCNN.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\LichSu.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfoInputs.cache
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.AssemblyInfo.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.CoreCompileInputs.cache
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\XamlC.stamp
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.dll
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\ref\Maytinh.dll
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.pdb
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Maytinh.csproj.AssemblyReference.cache
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\DoiTrongLuong.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\DoiNhietDo.xaml.g.cs
+E:\.Net\Maytinh_App\Maytinh\Maytinh\Maytinh\obj\Debug\netstandard2.0\Function\DoiVanToc.xaml.g.cs

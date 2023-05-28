@@ -1,0 +1,164 @@
+{
+  "version": 2,
+  "dgSpecHash": "E21dvLLoizmKCH9Geo9vw3DF/UG4B/M5Xcr6sNZs6P9DjXwRegMdYYdXJdAaMMvLDbTv31g+B/3Qkm6j+AUhbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vulek\\source\\repos\\Maytinh_App\\Maytinh\\Maytinh\\Maytinh\\Maytinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vulek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\org.matheval\\1.0.0.3\\org.matheval.1.0.0.3.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\vulek\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'sqlite-net-pcl' from remote source 'https://www.nuget.org/FindPackagesById()?id='sqlite-net-pcl'&semVerLevel=2.0.0'.",
+      "libraryId": "sqlite-net-pcl"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'sqlite-net-pcl' from remote source 'https://www.nuget.org/FindPackagesById()?id='sqlite-net-pcl'&semVerLevel=2.0.0'.",
+      "libraryId": "sqlite-net-pcl"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Essentials' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Essentials'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Essentials"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Essentials' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Essentials'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Essentials"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Forms' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Forms'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Forms"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Xamarin.Forms' from remote source 'https://www.nuget.org/FindPackagesById()?id='Xamarin.Forms'&semVerLevel=2.0.0'.",
+      "libraryId": "Xamarin.Forms"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'NETStandard.Library' from remote source 'https://www.nuget.org/FindPackagesById()?id='NETStandard.Library'&semVerLevel=2.0.0'.",
+      "libraryId": "NETStandard.Library"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'NETStandard.Library' from remote source 'https://www.nuget.org/FindPackagesById()?id='NETStandard.Library'&semVerLevel=2.0.0'.",
+      "libraryId": "NETStandard.Library"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'org.matheval' from remote source 'https://www.nuget.org/FindPackagesById()?id='org.matheval'&semVerLevel=2.0.0'.",
+      "libraryId": "org.matheval"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'org.matheval' from remote source 'https://www.nuget.org/FindPackagesById()?id='org.matheval'&semVerLevel=2.0.0'.",
+      "libraryId": "org.matheval"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_green' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.bundle_green'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_green"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_green' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.bundle_green'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_green"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Numerics.Vectors' from remote source 'https://www.nuget.org/FindPackagesById()?id='System.Numerics.Vectors'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://www.nuget.org/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    }
+  ]
+}
