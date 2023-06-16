@@ -95,21 +95,29 @@
                     CornerRadius="10"
                     Clicked="btnLn_Clicked"
                     />
-            <Grid x:Name="radianOn" Grid.Row="3" Grid.Column="0" BackgroundColor="#8caaee" >
+            <Frame
+                Grid.Row="3" Grid.Column="0" BackgroundColor="#8caaee" 
+                Padding="0"
+                CornerRadius="10"
+                WidthRequest="70"
+                HeightRequest="70"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" 
+                >
+            <Grid x:Name="radianOn" >
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <Switch x:Name="rdRadian"
                         IsToggled="True"
-                        WidthRequest="70"
-                        HeightRequest="70"
-                        HorizontalOptions="Center" 
-                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center" 
                         Grid.Row="0" />
                 <Label Text="Radian" TextColor="Black" Grid.Row="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
 
             </Grid>
+            </Frame>
             <Button x:Name="btnSin"
                     Text="Sin(x)" 
                     TextColor="Black"
