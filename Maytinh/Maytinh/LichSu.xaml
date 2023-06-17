@@ -30,9 +30,15 @@
 
                                 <Entry Text="{Binding Id}" 
                                        TextColor="#c6d0f5"
+                                       IsReadOnly="True"
                                        />
-                                <Entry Text="{Binding Loaitinhtoan}" TextColor="#c6d0f5"/>
-                                <Entry Text="{Binding Ketqua}" TextColor="#c6d0f5"/>
+                                <Entry Text="{Binding Loaitinhtoan}"
+                                       IsReadOnly="True"
+                                       TextColor="#c6d0f5"/>
+                                <Entry Text="{Binding Ketqua}"
+                                       TextColor="#c6d0f5"
+                                       IsReadOnly="True"
+                                       />
 
                             </StackLayout>
 
