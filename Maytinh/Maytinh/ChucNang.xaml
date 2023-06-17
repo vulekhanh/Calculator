@@ -56,7 +56,7 @@
                 Grid.Column="0"
                 FontSize="15"
                 FontAttributes="Bold"
-                BackgroundColor="#85c1dc"
+                BackgroundColor="#e5c890"
                 VerticalOptions="EndAndExpand"
                 HorizontalOptions="Center"
                 CornerRadius="60"
