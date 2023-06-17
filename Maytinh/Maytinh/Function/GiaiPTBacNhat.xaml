@@ -39,9 +39,10 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtA" 
                     Grid.Row="2"
                     Grid.Column="1"
@@ -56,9 +57,10 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
