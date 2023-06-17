@@ -819,7 +819,7 @@ namespace Maytinh
             }
             catch
             {
-                lbKetQua.Text = "Lỗi biểu thức";
+                lbKetQua.Text = "Syntax ERROR";
             }
             this.dataAccess.AddLS(DateTime.Now.ToString(), a, ansResult.ToString());
         }
