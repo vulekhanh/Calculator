@@ -1,10 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="#BFE8FF"
+             BackgroundColor="#292c3c"
              Padding="10"
              Title="Giải phương trình bậc nhất"
              x:Class="Maytinh.Function.GiaiPTBacNhat">
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="BorderColor" Value="#ea76cb"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0.5">
+                        <GradientStop Color="#99d1db" Offset="0"/>
+                        <GradientStop Color="#f2d5cf" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="CornerRadius" Value="10"/>
+        </Style>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <Grid x:Name="giaiPTBacNhat" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
@@ -29,85 +48,69 @@
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="nhapA" 
                    Text="Nhập a = "
                    Grid.Row="2"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtA" 
                     Grid.Row="2"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapB" 
                    Text="Nhập b = "
                    Grid.Row="3"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Button x:Name="btnLamMoi" 
                     Text="RESET"
                     Grid.Row="5"
                     Grid.Column="0"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                    Clicked="BtnLamMoi_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnLamMoi_Clicked"/>
+            
             <Button x:Name="btnTinh" 
                     Text="Tính"
                     Grid.Row="5"
                     Grid.Column="1"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                    Clicked="BtnTinh_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnTinh_Clicked"/>
+            
             <Button x:Name="btnThoat" 
                     Text="Thoát"
                     Grid.Row="5"
                     Grid.Column="2"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                     Clicked="BtnThoat_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnThoat_Clicked"/>
+            
             <Label x:Name="lbKetQua" 
                     Text=""
                    Grid.Row="7"
@@ -115,9 +118,8 @@
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
