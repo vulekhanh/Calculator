@@ -29,9 +29,10 @@
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="nhapA" 
                    Text="Nhập a = "
                    Grid.Row="2"
