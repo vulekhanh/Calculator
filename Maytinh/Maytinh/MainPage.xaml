@@ -109,7 +109,8 @@
                 WidthRequest="65"
                 HeightRequest="65"
                 HorizontalOptions="Center"
-                VerticalOptions="Center" 
+                VerticalOptions="Center"
+                BorderColor="#ca9ee6"
                 >
             <Grid x:Name="radianOn" >
                 <Grid.RowDefinitions>
@@ -123,7 +124,7 @@
                         Grid.Row="0" />
                 <Label Text="Radian"
                        TextColor="#232634" 
-                        FontAttributes="Bold"
+                       FontAttributes="Bold"
                        Grid.Row="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
 
             </Grid>
