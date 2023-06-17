@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="LightCyan"
+             BackgroundColor="#303446"
              x:Class="Maytinh.LichSu">
     <ContentPage.Content>
         <StackLayout>
@@ -10,8 +10,8 @@
                FontSize="30" 
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center"
-               BackgroundColor="#5FA2FF"
-               TextColor="Black"
+               BackgroundColor="#232634"
+               TextColor="#e78284"
                FontAttributes="Bold"
                />
             <ListView x:Name="ProductsView"
@@ -28,9 +28,11 @@
 
                             <StackLayout Orientation="Vertical">
 
-                                <Entry Text="{Binding Id}"/>
-                                <Entry Text="{Binding Loaitinhtoan}"/>
-                                <Entry Text="{Binding Ketqua}" />
+                                <Entry Text="{Binding Id}" 
+                                       TextColor="#c6d0f5"
+                                       />
+                                <Entry Text="{Binding Loaitinhtoan}" TextColor="#c6d0f5"/>
+                                <Entry Text="{Binding Ketqua}" TextColor="#c6d0f5"/>
 
                             </StackLayout>
 
