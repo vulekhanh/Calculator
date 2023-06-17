@@ -5,8 +5,8 @@
              Padding="10"
              Title="Giải phương trình bậc nhất"
              x:Class="Maytinh.Function.GiaiPTBacNhat">
-    <ContentPage.Style>
-        <Style x:Name="ButtonStyle" TargetType="Button">
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
             <Setter Property="TextColor" Value="Black"/>
             <Setter Property="BorderColor" Value="White"/>
             <Setter Property="BorderWidth" Value="1"/>
@@ -15,7 +15,7 @@
             <Setter Property="FontSize" Value="20"/>
             <Setter Property="CornerRadius" Value="10"/>
         </Style>
-    </ContentPage.Style>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <Grid x:Name="giaiPTBacNhat" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
