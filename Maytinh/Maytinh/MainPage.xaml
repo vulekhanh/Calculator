@@ -199,7 +199,7 @@
                     />
             <Button x:Name="btnMu"
                     FontAttributes="Bold"
-                    Text="a^(x)"
+                    Text="xⁿ"
                     TextColor="#232634"
                     WidthRequest="65"
                     HeightRequest="65"
@@ -210,7 +210,7 @@
                     BackgroundColor="#8caaee"
                     BorderColor="#ca9ee6"
                     BorderWidth="1"
-                    FontSize="15"
+                    FontSize="20"
                         CornerRadius="30"
                     Clicked="btnMu_Clicked"
                     />
