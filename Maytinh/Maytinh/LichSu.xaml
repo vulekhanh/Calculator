@@ -1,8 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="LightCyan"
+             BackgroundColor="#303446"
              x:Class="Maytinh.LichSu">
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="BorderColor" Value="#ea76cb"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0.5">
+                        <GradientStop Color="#99d1db" Offset="0"/>
+                        <GradientStop Color="#f2d5cf" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="CornerRadius" Value="10"/>
+        </Style>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout>
             <Label x:Name="lbChucNang" 
@@ -10,8 +29,8 @@
                FontSize="30" 
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center"
-               BackgroundColor="#5FA2FF"
-               TextColor="Black"
+               BackgroundColor="#232634"
+               TextColor="#e78284"
                FontAttributes="Bold"
                />
             <ListView x:Name="ProductsView"
@@ -28,9 +47,17 @@
 
                             <StackLayout Orientation="Vertical">
 
-                                <Entry Text="{Binding Id}"/>
-                                <Entry Text="{Binding Loaitinhtoan}"/>
-                                <Entry Text="{Binding Ketqua}" />
+                                <Entry Text="{Binding Id}" 
+                                       TextColor="#c6d0f5"
+                                       IsReadOnly="True"
+                                       />
+                                <Entry Text="{Binding Loaitinhtoan}"
+                                       IsReadOnly="True"
+                                       TextColor="#c6d0f5"/>
+                                <Entry Text="{Binding Ketqua}"
+                                       TextColor="#c6d0f5"
+                                       IsReadOnly="True"
+                                       />
 
                             </StackLayout>
 
@@ -50,25 +77,23 @@
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
                 <Button Text=" Home "
-                    TextColor="Black"
                     Grid.Row="0"
                     Grid.Column="0"
-                    FontSize="12"
+                    FontSize="16"
                     FontAttributes="Bold"
-                    BackgroundColor="#5FA2FF"
-                    VerticalOptions="EndAndExpand"
+                    Style="{StaticResource ButtonStyle}"
+                    VerticalOptions="Center"
                     HorizontalOptions="Center"
                     CornerRadius="60"
                     Clicked="BtnHome_clicked"
                     />
-                <Button Text=" Xóa "
-                    TextColor="Black"
+                <Button Text="Clear"
                     Grid.Row="0"
                     Grid.Column="1"
-                    FontSize="12"
+                    FontSize="16"
+                    Style="{StaticResource ButtonStyle}"
                     FontAttributes="Bold"
-                    BackgroundColor="#5FA2FF"
-                    VerticalOptions="EndAndExpand"
+                    VerticalOptions="Center"
                     HorizontalOptions="Center"
                     CornerRadius="60"
                     Clicked="BtnXoa_clicked"
