@@ -58,8 +58,8 @@
                     Grid.Column="0"
                     Grid.ColumnSpan="2"
                     BackgroundColor="#e5c890"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="16"
                     CornerRadius="30"
                     FontAttributes="Bold"
@@ -77,8 +77,8 @@
                     Grid.Column="3"
                     Grid.ColumnSpan="2"
                     BackgroundColor="#e5c890"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="16"
                     CornerRadius="30"
                     FontAttributes="Bold"
@@ -95,8 +95,8 @@
                     Grid.Row="3"
                     Grid.Column="1"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                     FontAttributes="Bold"
                     CornerRadius="30"
@@ -110,7 +110,7 @@
                 HeightRequest="65"
                 HorizontalOptions="Center"
                 VerticalOptions="Center"
-                BorderColor="#ca9ee6"
+                
                 >
             <Grid x:Name="radianOn" >
                 <Grid.RowDefinitions>
@@ -140,8 +140,8 @@
                     VerticalOptions="Center" 
                     Grid.Column="2"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="btnSin_Clicked"
@@ -157,8 +157,8 @@
                     Grid.Row="3"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                    Clicked="btnCos_Clicked"
@@ -174,8 +174,8 @@
                     Grid.Row="3"
                     Grid.Column="4"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="btnTan_Clicked"
@@ -192,8 +192,8 @@
                     Grid.Row="4"
                     Grid.Column="0"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="btnLog_Clicked"
@@ -209,8 +209,8 @@
                     Grid.Row="4"
                     Grid.Column="1"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="btnMu_Clicked"
@@ -227,8 +227,8 @@
                     Grid.Row="4"
                     Grid.Column="2"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnMoNgoac_Clicked"
                     />
@@ -244,8 +244,8 @@
                     Grid.Row="4"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnDongNgoac_Clicked"
                     />
@@ -260,8 +260,8 @@
                     Grid.Row="4"
                     Grid.Column="4"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="BtnArc_Clicked"
@@ -278,8 +278,8 @@
                     Grid.Row="9"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="14"
                         CornerRadius="30"
                     Clicked="btnAns_Clicked"
@@ -296,8 +296,8 @@
                     Grid.Row="6"
                     Grid.Column="4"
                     BackgroundColor="#e78284"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                    Clicked="btnAC_Clicked"
@@ -313,8 +313,8 @@
                     Grid.Row="5"
                     Grid.Column="4"
                     BackgroundColor="#e78284"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="14"
                         CornerRadius="30"
                    Clicked="btnCE_Clicked"
@@ -330,8 +330,8 @@
                     Grid.Row="6"
                     Grid.Column="3"
                     BackgroundColor="#e78284"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontSize="20"
                         CornerRadius="30"
                     Clicked="btnDelete_Clicked"
@@ -349,8 +349,8 @@
                     Grid.Row="7"
                     Grid.Column="4"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnChia_Clicked"
                     />
@@ -367,8 +367,8 @@
                     Grid.Row="5"
                     Grid.Column="0"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnGiaiThua_Clicked"
                     />
@@ -384,8 +384,8 @@
                     Grid.Row="6"
                     Grid.Column="0"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                    Clicked="btnBay_Clicked"
                     />
@@ -401,8 +401,8 @@
                     Grid.Row="6"
                     Grid.Column="1"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                    Clicked="btnTam_Clicked"
                     />
@@ -418,8 +418,8 @@
                     Grid.Row="6"
                     Grid.Column="2"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                    Clicked="btnChin_Clicked"
                     />
@@ -435,8 +435,8 @@
                     Grid.Row="7"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnNhan_Clicked"
                     />
@@ -452,9 +452,9 @@
                     FontAttributes="Bold"
                     Grid.Row="9"
                     Grid.Column="2"
-                    BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    BackgroundColor="LightCyan"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnPI_Clicked"
                     />
@@ -470,8 +470,8 @@
                     FontAttributes="Bold"
                     Grid.Column="0"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                    Clicked="btnBon_Clicked"
                     />
@@ -487,8 +487,8 @@
                     Grid.Column="1"
                     FontAttributes="Bold"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnNam_Clicked"
                     />
@@ -504,8 +504,8 @@
                     Grid.Column="2"
                     BackgroundColor="LightCyan"
                     FontAttributes="Bold"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnSau_Clicked"
                     />
@@ -519,10 +519,10 @@
                     Grid.Row="8"
                     Grid.Column="4"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
+                    
                     FontAttributes="Bold"
                     FontSize="30"
-                    BorderWidth="2"
+                    
                         CornerRadius="30"
                     Clicked="btnTru_Clicked"
                     />
@@ -538,9 +538,9 @@
                     Grid.Row="5"
                     Grid.Column="1"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
+                    
                     FontAttributes="Bold"
-                    BorderWidth="2"
+                    
                         CornerRadius="30"
                     Clicked="btnCanBacHai_Clicked"
                     />
@@ -555,8 +555,8 @@
                     Grid.Row="8"
                     Grid.Column="0"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                     FontAttributes="Bold"
                         CornerRadius="30"
                     Clicked="btnMot_Clicked"
@@ -572,8 +572,8 @@
                     Grid.Row="8"
                     Grid.Column="1"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     FontAttributes="Bold"
                     Clicked="btnHai_Clicked"
@@ -589,8 +589,8 @@
                     Grid.Row="8"
                     Grid.Column="2"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnBa_Clicked"
                     FontAttributes="Bold"
@@ -607,8 +607,8 @@
                     Grid.Row="8"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnCong_Clicked"
                     />
@@ -625,8 +625,8 @@
                     Grid.Row="5"
                     Grid.Column="2"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnCanBacBa_Clicked"
                     />
@@ -642,8 +642,8 @@
                     Grid.Row="5"
                     Grid.Column="3"
                     BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnE_Clicked"
                     />
@@ -659,8 +659,8 @@
                     Grid.Row="9"
                     Grid.Column="0"
                     BackgroundColor="LightCyan"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnKhong_Clicked"
                     />
@@ -675,10 +675,8 @@
                     TextColor="#232634"
                     Grid.Row="9"
                     Grid.Column="1"
-                    BackgroundColor="#8caaee"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
-                        CornerRadius="30"
+                    BackgroundColor="LightCyan"
+                    CornerRadius="30"
                     Clicked="btnPhay_Clicked"
                     />
             <Button x:Name="btnBang"
@@ -689,8 +687,8 @@
                     BackgroundColor="#a6d189"
                     FontSize="30"
                     FontAttributes="Bold"
-                    BorderColor="#ca9ee6"
-                    BorderWidth="2"
+                    
+                    
                         CornerRadius="30"
                     Clicked="btnBang_Clicked"
                     WidthRequest="65"
