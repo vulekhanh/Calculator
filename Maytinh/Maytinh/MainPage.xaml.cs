@@ -258,8 +258,12 @@ namespace Maytinh
         // chuyen sang bieu thuc hau to
         public List<string> InfixtoPostfix(string infix)
         {
+            Console.WriteLine("===");
             Stack<char> stack = new Stack<char>();
             List<string> hauTo = new List<string>();
+
+            bool first = true, prevSymbol = false;
+            string nextSymbol = "";
             for (int i = 0; i < infix.Length;)
             {
                 if ((int)infix[i] >= 48 && (int)infix[i] <= 57)
@@ -270,15 +274,26 @@ namespace Maytinh
                         token += infix[i];
                         i++;
                     }
+
+                    if (prevSymbol)
+                    {
+                        token = nextSymbol + token;
+                    }
+
+
+                    prevSymbol = false;
+
                     hauTo.Add(token);
                 }
                 else if (infix[i] == '(')
                 {
+                    prevSymbol = false;
                     stack.Push(infix[i]);
                     i++;
                 }
                 else if (infix[i] == ')')
                 {
+                    prevSymbol = false;
                     string temp = stack.Pop().ToString();
                     while (stack.Count > 0 && temp != "(")
                     {
@@ -289,6 +304,16 @@ namespace Maytinh
                 }
                 else
                 {
+                    if (prevSymbol)
+                    {
+                        nextSymbol = infix[i].ToString();
+                        i++;
+                        continue;
+                    }
+
+                    if (!first)
+                        prevSymbol = true;
+
                     while (stack.Count > 0 && Precedence(infix[i]) <= Precedence(stack.Peek()))
                     {
                         hauTo.Add(stack.Pop().ToString());
@@ -296,6 +321,8 @@ namespace Maytinh
                     stack.Push(infix[i]);
                     i++;
                 }
+
+                first = false;
             }
             while (stack.Count > 0) hauTo.Add(stack.Pop().ToString());
             return hauTo;
@@ -303,6 +330,7 @@ namespace Maytinh
         // tinh gia tri của bieu thu hau to
         public double evalue(string _bieuThuc)
         {
+            Console.WriteLine(_bieuThuc);
             if (_bieuThuc != "+∞" && _bieuThuc != "-∞")
             {
                 if (_bieuThuc[0] == '-')
