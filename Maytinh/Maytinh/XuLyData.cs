@@ -11,6 +11,11 @@ using System.Linq;
 
 namespace Maytinh
 {
+    public interface IToastService
+    {
+        void ShowToast(string message);
+    }
+
     class XuLyData
     {
         private SQLiteConnection database;
@@ -63,7 +68,13 @@ namespace Maytinh
         {
             lock(collisionLock)
             {
-                database.Insert(new Product() { Id = id ,Loaitinhtoan = loaitinhtoan, Ketqua = ketqua });
+                try
+                {
+                    database.Insert(new Product() { Id = id, Loaitinhtoan = loaitinhtoan, Ketqua = ketqua });
+                } catch
+                {
+                    DependencyService.Get<IToastService>().ShowToast("Operator busy.");
+                }
             }    
         }
         public void DeleteAllProducts()

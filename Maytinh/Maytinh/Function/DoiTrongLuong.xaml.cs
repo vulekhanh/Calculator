@@ -57,6 +57,13 @@ namespace Maytinh.Function
 
             string unit1 = PFunc.Items[PFunc.SelectedIndex];
             string unit2 = P2Func.Items[P2Func.SelectedIndex];
+            int number;
+
+            if (!int.TryParse(txtA.Text, out number))
+            {
+                DependencyService.Get<IToastService>().ShowToast("Not a valid number");
+                return;
+            }
 
             float value = float.Parse(txtA.Text);
 
@@ -85,6 +92,13 @@ namespace Maytinh.Function
 
             string unit1 = PFunc.Items[PFunc.SelectedIndex];
             string unit2 = P2Func.Items[P2Func.SelectedIndex];
+            int number;
+
+            if (!int.TryParse(txtB.Text, out number))
+            {
+                DependencyService.Get<IToastService>().ShowToast("Not a valid number");
+                return;
+            }
 
             float value = float.Parse(txtB.Text);
 
