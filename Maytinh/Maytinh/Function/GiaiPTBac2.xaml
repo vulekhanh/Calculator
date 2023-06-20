@@ -140,7 +140,8 @@
                    VerticalTextAlignment="Center"
                    TextColor="Black"
                    BackgroundColor="#babbf1"
-                   FontSize="20"/>
+                   FontSize="20"
+                   FontAttributes="Bold"/>
             
             <Label x:Name="lbKetQua2" 
                    Text=""
@@ -150,7 +151,8 @@
                    VerticalTextAlignment="Center"
                    TextColor="Black"
                    BackgroundColor="#babbf1"
-                   FontSize="20"/>
+                   FontSize="20"
+                   FontAttributes="Bold"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
