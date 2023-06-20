@@ -5,6 +5,25 @@
              Padding="10"
              Title="Giải phương trình bậc ba"
              x:Class="Maytinh.Function.GiaiPTBac3">
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="BorderColor" Value="#ea76cb"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0.5">
+                        <GradientStop Color="#99d1db" Offset="0"/>
+                        <GradientStop Color="#f2d5cf" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="CornerRadius" Value="10"/>
+        </Style>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <Grid x:Name="giaiPTBacBa" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
