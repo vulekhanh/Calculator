@@ -115,46 +115,25 @@
                     Text="RESET"
                     Grid.Row="6"
                     Grid.Column="0"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                    Clicked="BtnLamMoi_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnLamMoi_Clicked"/>
+            
             <Button x:Name="btnTinh" 
                     Text="Tính"
                     Grid.Row="6"
                     Grid.Column="1"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                   Clicked="BtnTinh_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnTinh_Clicked"/>
+            
             <Button x:Name="btnThoat" 
                     Text="Thoát"
                     Grid.Row="6"
                     Grid.Column="2"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-                    Clicked="BtnThoat_Clicked"
-                    />
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="BtnThoat_Clicked"/>
+            
             <Label x:Name="lbKetQua1" 
-                    Text=""
+                   Text=""
                    Grid.Row="8"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
@@ -164,7 +143,7 @@
                    FontSize="20"/>
             
             <Label x:Name="lbKetQua2" 
-                    Text=""
+                   Text=""
                    Grid.Row="9"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
