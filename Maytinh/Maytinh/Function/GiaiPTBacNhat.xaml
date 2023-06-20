@@ -112,14 +112,15 @@
                     Clicked="BtnThoat_Clicked"/>
             
             <Label x:Name="lbKetQua" 
-                    Text=""
+                   Text=""
                    Grid.Row="7"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
                    BackgroundColor="#babbf1"
-                   FontSize="20"/>
+                   FontSize="20"
+                   FontAttributes="Bold"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>

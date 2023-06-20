@@ -27,7 +27,7 @@
     <ContentPage.Content>
         <Grid x:Name="giaiPTBacHai" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
-                <RowDefinition Height="40"/>
+                <RowDefinition Height="65"/>
                 <RowDefinition Height="20"/>
                 <RowDefinition Height="40"/>
                 <RowDefinition Height="40"/>
@@ -45,13 +45,13 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label x:Name="giaiPT" 
-                   Text="Giải phương trình ax² + bx + c = 0"
+                   Text="Giải phương trình                    ax² + bx + c = 0"
                    Grid.Row="0"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
                    TextColor="#e78284"
-                   FontSize="26"
+                   FontSize="28"
                    FontAttributes="Bold"/>
             
             <Label x:Name="nhapA" 
@@ -140,7 +140,8 @@
                    VerticalTextAlignment="Center"
                    TextColor="Black"
                    BackgroundColor="#babbf1"
-                   FontSize="20"/>
+                   FontSize="20"
+                   FontAttributes="Bold"/>
             
             <Label x:Name="lbKetQua2" 
                    Text=""
@@ -150,7 +151,8 @@
                    VerticalTextAlignment="Center"
                    TextColor="Black"
                    BackgroundColor="#babbf1"
-                   FontSize="20"/>
+                   FontSize="20"
+                   FontAttributes="Bold"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
