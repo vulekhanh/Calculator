@@ -62,51 +62,57 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtA" 
                     Grid.Row="2"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapB" 
                    Text="Nhập b = "
                    Grid.Row="3"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapC" 
                    Text="Nhập c = "
                    Grid.Row="4"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtC" 
                     Grid.Row="4"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapD" 
                    Text="Nhập d = "
                    Grid.Row="5"
