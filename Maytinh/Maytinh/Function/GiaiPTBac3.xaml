@@ -119,17 +119,19 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtD" 
                     Grid.Row="5"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Button x:Name="btnLamMoi" 
                     Text="RESET"
                     Grid.Row="7"
