@@ -154,35 +154,37 @@
                     Clicked="BtnThoat_Clicked"/>
             
             <Label x:Name="lbKetQua1" 
-                    Text=""
+                   Text=""
                    Grid.Row="9"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="lbKetQua2" 
-                    Text=""
+                   Text=""
                    Grid.Row="10"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="lbKetQua3" 
-                    Text=""
+                   Text=""
                    Grid.Row="11"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
