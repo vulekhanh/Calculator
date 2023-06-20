@@ -79,9 +79,10 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
@@ -97,9 +98,10 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtC" 
                     Grid.Row="4"
                     Grid.Column="1"
@@ -158,9 +160,9 @@
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"/>
+            
             <Label x:Name="lbKetQua2" 
                     Text=""
                    Grid.Row="9"
@@ -168,9 +170,8 @@
                    HorizontalTextAlignment="Start"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   BackgroundColor="#5FA2FF"
-                   FontSize="18"
-                   />
+                   BackgroundColor="#babbf1"
+                   FontSize="20"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
