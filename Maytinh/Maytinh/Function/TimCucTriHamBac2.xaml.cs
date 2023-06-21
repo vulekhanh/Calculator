@@ -31,7 +31,7 @@ namespace Maytinh.Function
         {
             if (a == 0)
             {
-                lbKetQua1.Text = "Khong co cuc tri";
+                lbKetQua1.Text = "Không có cực trị";
             }
             else
             {
@@ -39,11 +39,11 @@ namespace Maytinh.Function
                 double y = a * Math.Pow(cucTri, 2) + b * cucTri + c;
                 if (a > 0)
                 {
-                    lbKetQua1.Text = "Ham so dat cuc dai tai (" + cucTri.ToString() + ", " + y.ToString() + ")";
+                    lbKetQua1.Text = " Hàm số đạt cực đại tại (" + cucTri.ToString() + ", " + y.ToString() + ")";
                 }
                 if (a < 0)
                 {
-                    lbKetQua1.Text = "Ham so dat cuc tieu tai (" + cucTri.ToString() + ", " + y.ToString() + ")";
+                    lbKetQua1.Text = " Hàm số đạt cực tiểu tại (" + cucTri.ToString() + ", " + y.ToString() + ")";
                 }
             }
             
