@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Maytinh.Function.TimUCLNBCNN">
+             x:Class="Maytinh.Function.TimUCLNBCNN"
+             BackgroundColor="#292c3c">
     <ContentPage.Resources>
         <Style x:Key="ButtonStyle" TargetType="Button">
             <Setter Property="TextColor" Value="Black"/>
@@ -46,43 +47,48 @@
                    Grid.ColumnSpan="4"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="nhapA" 
                    Text="Nhập a = "
                    Grid.Row="2"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtA" 
                     Grid.Row="2"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapB" 
                    Text="Nhập b = "
                    Grid.Row="3"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Button x:Name="btnLamMoi" 
                     Text="RESET"
                     Grid.Row="5"
