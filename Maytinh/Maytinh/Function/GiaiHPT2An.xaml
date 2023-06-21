@@ -126,48 +126,54 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapA2" 
                     Grid.Row="3"
                     Grid.Column="1"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="lbNhapB2" 
                    Text="b2 = "
                    Grid.Row="3"
                    Grid.Column="2"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapB2" 
                     Grid.Row="3"
                     Grid.Column="3"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="lbNhapC2" 
                    Text="c2 = "
                    Grid.Row="3"
                    Grid.Column="4"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapC2" 
                     Grid.Row="3"
                     Grid.Column="5"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Button x:Name="btnLamMoi"
                     Text="RESET"
                     Grid.Row="5"
