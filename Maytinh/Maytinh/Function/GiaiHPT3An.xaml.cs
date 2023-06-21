@@ -23,12 +23,16 @@ namespace Maytinh.Function
         {
             txtNhapA1.Text = "";
             txtNhapA2.Text = "";
+            txtNhapA3.Text = "";
             txtNhapB1.Text = "";
             txtNhapB2.Text = "";
+            txtNhapB3.Text = "";
             txtNhapC1.Text = "";
             txtNhapC2.Text = "";
+            txtNhapC3.Text = "";
             txtNhapD1.Text = "";
             txtNhapD2.Text = "";
+            txtNhapD3.Text = "";
             lbKetQuaX.Text = "";
             lbKetQuaY.Text = "";
             lbKetQuaZ.Text = "";
