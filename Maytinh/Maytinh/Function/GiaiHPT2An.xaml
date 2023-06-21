@@ -47,7 +47,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label x:Name="lbGiaiHePT2An" 
-                   Text="Giải hệ phương trình bậc nhất, 2 ẩn dạng"
+                   Text="Giải hệ phương trình bậc nhất, 2 ẩn dạng ax + by = c"
                    Grid.Row="0"
                    Grid.ColumnSpan="6"
                    HorizontalTextAlignment="Center"
@@ -72,48 +72,54 @@
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapA1" 
                     Grid.Row="2"
                     Grid.Column="1"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="lbNhapB1" 
                    Text="b1 = "
                    Grid.Row="2"
                    Grid.Column="2"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapB1" 
                     Grid.Row="2"
                     Grid.Column="3"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="lbNhapC1" 
                    Text="c1 = "
                    Grid.Row="2"
                    Grid.Column="4"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="14"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtNhapC1" 
                     Grid.Row="2"
                     Grid.Column="5"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="14"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="lbNhapA2" 
                    Text="a2 = "
                    Grid.Row="3"
