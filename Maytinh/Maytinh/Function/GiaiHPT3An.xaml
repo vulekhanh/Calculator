@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="#BFE8FF"
+             BackgroundColor="#292c3c"
              Padding="10"
              Title="Giải hệ phương trình 3 ẩn"
              x:Class="Maytinh.Function.GiaiHPT3An">
@@ -27,7 +27,7 @@
     <ContentPage.Content>
         <Grid x:Name="giaiHPT" RowSpacing="1" ColumnSpacing="1" >
             <Grid.RowDefinitions>
-                <RowDefinition Height="40"/>
+                <RowDefinition Height="70"/>
                 <RowDefinition Height="20"/>
                 <RowDefinition Height="40"/>
                 <RowDefinition Height="40"/>
@@ -51,23 +51,24 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label x:Name="lbGiaiHePT3An" 
-                   Text="Giải hệ phương trình bậc nhất, 3 ẩn dạng "
+                   Text="Giải hệ phương trình bậc nhất, 3 ẩn dạng ax + by + cz = d"
                    Grid.Row="0"
                    Grid.ColumnSpan="8"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
-            <Label x:Name="dangpt" 
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
+            <!--<Label x:Name="dangpt" 
                    Text="ax + by + cz = d"
                    Grid.Row="1"
                    Grid.ColumnSpan="8"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
                    TextColor="Black"
-                   FontSize="14"
-                   />
+                   FontSize="14"/>-->
+            
             <Label x:Name="lbNhapA1" 
                    Text="a1 = "
                    Grid.Row="2"
