@@ -43,29 +43,29 @@ namespace Maytinh.Function
                     {
                         if (Dy == 0)
                         {
-                            lbKetQuaX.Text = "Vô số nghiệm";
+                            lbKetQuaX.Text = " Vô số nghiệm";
                         }
                         else
                         {
-                            lbKetQuaX.Text = "Vô nghiệm";
+                            lbKetQuaX.Text = " Vô nghiệm";
                         }
                     }
                     else
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                 }
                 else
                 {
                     double X = Dx / D;
                     double Y = Dy / D;
-                    lbKetQuaX.Text = "x = " + X.ToString();
-                    lbKetQuaY.Text = "y = " + Y.ToString();
+                    lbKetQuaX.Text = " x = " + X.ToString();
+                    lbKetQuaY.Text = " y = " + Y.ToString();
                 }
             }
             catch
             {
-                lbKetQuaX.Text = "Lỗi biểu thức";
+                lbKetQuaX.Text = " Lỗi biểu thức";
             }
             string b  = lbKetQuaX.Text + " " + lbKetQuaY.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), a, b);
