@@ -34,20 +34,20 @@ namespace Maytinh.Function
             {
                 if (b == 0)
                 {
-                    if (c == 0) lbKetQua1.Text = "Vô số nghiệm";
-                    else lbKetQua1.Text = "Vô nghiệm";
+                    if (c == 0) lbKetQua1.Text = " Vô số nghiệm";
+                    else lbKetQua1.Text = " Vô nghiệm";
                 }
-                else lbKetQua1.Text = "x = " + (-c / b).ToString();
+                else lbKetQua1.Text = " x = " + (-c / b).ToString();
             }
             else
             {
                 double delta = b * b - 4 * a * c;
-                if (delta < 0) lbKetQua1.Text = "Vô nghiệm";
-                else if (delta == 0) lbKetQua1.Text = "x1 = x2 = " + (-b / (2 * a)).ToString();
+                if (delta < 0) lbKetQua1.Text = " Vô nghiệm";
+                else if (delta == 0) lbKetQua1.Text = " x1 = x2 = " + (-b / (2 * a)).ToString();
                 else
                 {
-                    lbKetQua1.Text = "x1 = " + ((-b + Math.Sqrt(delta)) / (2 * a)).ToString();
-                    lbKetQua2.Text = "x2 = " + ((-b - Math.Sqrt(delta)) / (2 * a)).ToString();
+                    lbKetQua1.Text = " x1 = " + ((-b + Math.Sqrt(delta)) / (2 * a)).ToString();
+                    lbKetQua2.Text = " x2 = " + ((-b - Math.Sqrt(delta)) / (2 * a)).ToString();
                 }
             }
         }
@@ -63,7 +63,7 @@ namespace Maytinh.Function
             }
             catch
             {
-                lbKetQua1.Text = "Lỗi biểu thức";
+                lbKetQua1.Text = " Lỗi biểu thức";
             }
             string p = lbKetQua1.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), a, p);
