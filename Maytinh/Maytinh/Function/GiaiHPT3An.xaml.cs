@@ -62,11 +62,11 @@ namespace Maytinh.Function
                     double d = a1 * b2 - a2 * b1;
                     if (d == 0 & dx == 0 & dy == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -82,7 +82,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -101,11 +101,11 @@ namespace Maytinh.Function
                     double d = a1 * b3 - a3 * b1;
                     if (d == 0 & dx == 0 & dy == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -121,7 +121,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -140,11 +140,11 @@ namespace Maytinh.Function
                     double d = a2 * b3 - a3 * b2;
                     if (d == 0 & dx == 0 & dy == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -160,7 +160,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -179,11 +179,11 @@ namespace Maytinh.Function
                     double d = a1 * c2 - a2 * c1;
                     if (d == 0 & dx == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -199,7 +199,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -218,11 +218,11 @@ namespace Maytinh.Function
                     double d = a1 * c3 - a3 * c1;
                     if (d == 0 & dx == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -238,7 +238,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -257,11 +257,11 @@ namespace Maytinh.Function
                     double d = a2 * c3 - a3 * c2;
                     if (d == 0 & dx == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dx * dx + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -277,7 +277,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -296,11 +296,11 @@ namespace Maytinh.Function
                     double d = b1 * c2 - b2 * c1;
                     if (d == 0 & dy == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dy * dy + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -316,7 +316,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -335,11 +335,11 @@ namespace Maytinh.Function
                     double d = b1 * c3 - b3 * c1;
                     if (d == 0 & dy == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dy * dy + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -355,7 +355,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -374,11 +374,11 @@ namespace Maytinh.Function
                     double d = b2 * c3 - b3 * c2;
                     if (d == 0 & dy == 0 & dz == 0)
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if ((d == 0) & (dy * dy + dz * dz != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (d != 0)
                     {
@@ -394,7 +394,7 @@ namespace Maytinh.Function
                             }
                             else
                             {
-                                lbKetQuaX.Text = "Vô nghiệm";
+                                lbKetQuaX.Text = " Vô nghiệm";
                             }
                         }
                         else
@@ -416,11 +416,11 @@ namespace Maytinh.Function
                     double D = a * b1 - a1 * b;
                     if (D == 0 & (dx * dx + dy * dy == 0))
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if (D == 0 & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (D != 0)
                     {
@@ -442,11 +442,11 @@ namespace Maytinh.Function
                     double D = a * b2 - a2 * b;
                     if (D == 0 & (dx * dx + dy * dy == 0))
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if (D == 0 & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (D != 0)
                     {
@@ -468,11 +468,11 @@ namespace Maytinh.Function
                     double D = a * b3 - a3 * b;
                     if (D == 0 & (dx * dx + dy * dy == 0))
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if (D == 0 & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (D != 0)
                     {
@@ -497,11 +497,11 @@ namespace Maytinh.Function
                     double D = a * bb - b * aa;
                     if (D == 0 & (dx * dx + dy * dy == 0))
                     {
-                        lbKetQuaX.Text = "Vô số nghiệm";
+                        lbKetQuaX.Text = " Vô số nghiệm";
                     }
                     else if (D == 0 & (dx * dx + dy * dy != 0))
                     {
-                        lbKetQuaX.Text = "Vô nghiệm";
+                        lbKetQuaX.Text = " Vô nghiệm";
                     }
                     else if (D != 0)
                     {
@@ -516,7 +516,7 @@ namespace Maytinh.Function
             }
             catch
             {
-                lbKetQuaX.Text = "Lỗi biểu thức";
+                lbKetQuaX.Text = " Lỗi biểu thức";
             }
             string p = lbKetQuaX.Text + " " + lbKetQuaY.Text + "" + lbKetQuaZ;
             this.dataAccess.AddLS(DateTime.Now.ToString(), a, p);
