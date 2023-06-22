@@ -126,7 +126,7 @@
                 Clicked="BtnTimCucTriHamBac3_clicked"/>
 
         <Button x:Name="btnDoiDonVi"
-                Text="Đổi đơn vị" 
+                Text="Đổi độ dài" 
                 Style="{StaticResource ButtonStyle}"
                 Grid.Row="10"
                 Grid.ColumnSpan="2"

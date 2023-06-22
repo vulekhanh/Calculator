@@ -1,7 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Maytinh.Function.DoiDonVi">
+             x:Class="Maytinh.Function.DoiDonVi"
+             BackgroundColor="#292c3c"
+             Padding="10">
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="BorderColor" Value="#ea76cb"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0.5">
+                        <GradientStop Color="#99d1db" Offset="0"/>
+                        <GradientStop Color="#f2d5cf" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="CornerRadius" Value="10"/>
+        </Style>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <Grid x:Name="Doidonvi" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
@@ -26,9 +47,10 @@
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
             <!-- <Label x:Name="nhapA" 
                    Text="Nhập a = "
                    Grid.Row="2"
@@ -39,27 +61,28 @@
                    FontSize="18"
                    /> -->
 
-              <Entry x:Name="txtA" 
-                    Grid.Row="2"
-                    Grid.Column="1"
-                    Focused="onUnit1Focused"
-                    TextChanged="onText1Changed"
-                    HorizontalOptions="FillAndExpand"
-                    HorizontalTextAlignment="End"
-                    Grid.ColumnSpan="2"
-                    VerticalOptions="End"
-                    TextColor="Black"
-                    FontSize="20"
-                    /> 
+            <Entry x:Name="txtA" 
+                   Grid.Row="2"
+                   Grid.Column="1"
+                   Focused="onUnit1Focused"
+                   TextChanged="onText1Changed"
+                   HorizontalOptions="FillAndExpand"
+                   HorizontalTextAlignment="Start"
+                   Grid.ColumnSpan="2"
+                   VerticalOptions="End"
+                   TextColor="#babbf1"
+                   FontSize="19"
+                   FontAttributes="Bold"/> 
+            
             <Picker x:Name="PFunc" 
                     Grid.Row="2"
                     Focused="onUnit1Focused"
                     SelectedIndexChanged="onUnit1Changed"
-                    HorizontalTextAlignment="Start"
+                    HorizontalTextAlignment="Center"
                     VerticalOptions="Center"
-                    TextColor="Black"
+                    TextColor="#e5c890"
                     FontSize="20"
-                    >
+                    FontAttributes="Bold">
                 <Picker.Items>
                     <x:String>mm</x:String>
                     <x:String>cm</x:String>
@@ -68,28 +91,29 @@
                     <x:String>inch</x:String>
                 </Picker.Items>
             </Picker>
-            
+
             <Entry x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
                     Focused="onUnit2Focused"
                     TextChanged="onText2Changed"
                     HorizontalOptions="FillAndExpand"
-                    HorizontalTextAlignment="End"
+                    HorizontalTextAlignment="Start"
                     Grid.ColumnSpan="2"
                     VerticalOptions="End"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="19"
+                    FontAttributes="Bold"/>
+
             <Picker x:Name="P2Func" 
                     Grid.Row="3"
                     Focused="onUnit2Focused"
                     SelectedIndexChanged="onUnit2Changed"
-                    HorizontalTextAlignment="Start"
+                    HorizontalTextAlignment="Center"
                     VerticalOptions="Center"
-                    TextColor="Black"
+                    TextColor="#e5c890"
                     FontSize="20"
-                    >
+                    FontAttributes="Bold">
                 <Picker.Items>
                     <x:String>mm</x:String>
                     <x:String>cm</x:String>
@@ -104,16 +128,7 @@
                     Text="Thoát"
                     Grid.Row="5"
                     Grid.Column="1"
-                    TextColor="Black"
-                    BorderColor="White"
-                    BorderWidth="1"
-                    BackgroundColor="#3F75FF"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    FontSize="20"
-                    CornerRadius="10"
-             />
-
+                    Style="{StaticResource ButtonStyle}"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
