@@ -26,31 +26,49 @@ namespace Maytinh.Function
         {
             try
             {
-                int a = int.Parse(txtA.Text);
-                if (a == 0 || a == 1)
-                {
-                    lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
-                }
-                else
-                {
-                    for (int i = 2; i <= a / 2; i++)
-                    {
-                        if (a % i == 0)
-                        {
-                            lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
-                            return;
-                        }
+                //int a = int.Parse(txtA.Text);
+                //if (a == 0 || a == 1)
+                //{
+                //    lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
+                //}
+                //else
+                //{
+                //    for (int i = 2; i <= a / 2; i++)
+                //    {
+                //        if (a % i == 0)
+                //        {
+                //            lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
+                //            return;
+                //        }
 
-                    }
-                    lbKetQua.Text = " " + a.ToString() + " là số nguyên tố";
-                }
+                //    }
+                //    lbKetQua.Text = " " + a.ToString() + " là số nguyên tố";
+                //}
+
+                int a = int.Parse(txtA.Text);
+                lbKetQua.Text = IsPrime(a) ? " " + a.ToString() + " là số nguyên tố"
+                                            : " " + a.ToString() + " không phải số nguyên tố";
+
             }
             catch
             {
                 lbKetQua.Text = " Lỗi biểu thức";
             }
         }
+            public bool IsPrime(int number)
+        {
+            if (number <= 1) return false;
+            if (number == 2) return true;
+            if (number % 2 == 0) return false;
 
+            var boundary = (int)Math.Floor(Math.Sqrt(number));
+
+            for (int i = 3; i <= boundary; i += 2)
+                if (number % i == 0)
+                    return false;
+
+            return true;
+        }
         private void BtnThoat_Clicked(object sender, EventArgs e)
         {
             App.Current.MainPage = new ChucNang();
