@@ -25,7 +25,7 @@
     <ContentPage.Content>
         <Grid x:Name="giaiPTBacBa" RowSpacing="1" ColumnSpacing="1">
             <Grid.RowDefinitions>
-                <RowDefinition Height="40"/>
+                <RowDefinition Height="65"/>
                 <RowDefinition Height="20"/>
                 <RowDefinition Height="40"/>
                 <RowDefinition Height="40"/>
@@ -45,82 +45,91 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label x:Name="giaiPT" 
-                   Text="Giải phương trình ax³ + bx² + cx + d = 0"
+                   Text="Tìm cực trị hàm số bậc 3          ax³ + bx² + cx + d = 0"
                    Grid.Row="0"
                    Grid.ColumnSpan="3"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e78284"
+                   FontSize="28"
+                   FontAttributes="Bold"/>
+            
             <Label x:Name="nhapA" 
                    Text="Nhập a = "
                    Grid.Row="2"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtA" 
                     Grid.Row="2"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/> 
+            
             <Label x:Name="nhapB" 
                    Text="Nhập b = "
                    Grid.Row="3"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtB" 
                     Grid.Row="3"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapC" 
                    Text="Nhập c = "
                    Grid.Row="4"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtC" 
                     Grid.Row="4"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Label x:Name="nhapD" 
                    Text="Nhập d = "
                    Grid.Row="5"
                    Grid.Column="0"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center"
-                   TextColor="Black"
-                   FontSize="18"
-                   />
+                   TextColor="#e5c890"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            
             <Editor x:Name="txtD" 
                     Grid.Row="5"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
                     VerticalOptions="Center"
-                    TextColor="Black"
-                    FontSize="20"
-                    />
+                    TextColor="#babbf1"
+                    FontSize="18"
+                    FontAttributes="Bold"/>
+            
             <Button x:Name="btnLamMoi" 
                     Text="RESET"
                     Grid.Row="7"
