@@ -27,7 +27,7 @@ namespace Maytinh.Function
             try
             {
                 int a = int.Parse(txtA.Text);
-                if (a == 0 || a == 1)
+                if (a <= 1)
                 {
                     lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
                 }
