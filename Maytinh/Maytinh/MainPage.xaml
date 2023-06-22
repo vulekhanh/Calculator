@@ -303,7 +303,7 @@
                    Clicked="btnAC_Clicked"
                     />
             <Button x:Name="btnCE"
-                    Text="CE" 
+                    Text="%" 
                     WidthRequest="65"
                     HeightRequest="65"
                     FontAttributes="Bold"
@@ -312,11 +312,9 @@
                     TextColor="#232634"
                     Grid.Row="5"
                     Grid.Column="4"
-                    BackgroundColor="#e78284"
-                    
-                    
-                    FontSize="14"
-                        CornerRadius="30"
+                    BackgroundColor="#8caaee"
+                    FontSize="20"
+                    CornerRadius="30"
                    Clicked="btnCE_Clicked"
                     />
             <Button x:Name="btnDelete"
@@ -538,10 +536,8 @@
                     Grid.Row="5"
                     Grid.Column="1"
                     BackgroundColor="#8caaee"
-                    
                     FontAttributes="Bold"
-                    
-                        CornerRadius="30"
+                    CornerRadius="30"
                     Clicked="btnCanBacHai_Clicked"
                     />
             <Button x:Name="btnMot"
@@ -555,10 +551,8 @@
                     Grid.Row="8"
                     Grid.Column="0"
                     BackgroundColor="LightCyan"
-                    
-                    
                     FontAttributes="Bold"
-                        CornerRadius="30"
+                    CornerRadius="30"
                     Clicked="btnMot_Clicked"
                     />
             <Button x:Name="btnHai"
@@ -572,9 +566,7 @@
                     Grid.Row="8"
                     Grid.Column="1"
                     BackgroundColor="LightCyan"
-                    
-                    
-                        CornerRadius="30"
+                    CornerRadius="30"
                     FontAttributes="Bold"
                     Clicked="btnHai_Clicked"
                     />
@@ -589,9 +581,7 @@
                     Grid.Row="8"
                     Grid.Column="2"
                     BackgroundColor="LightCyan"
-                    
-                    
-                        CornerRadius="30"
+                    CornerRadius="30"
                     Clicked="btnBa_Clicked"
                     FontAttributes="Bold"
                     />

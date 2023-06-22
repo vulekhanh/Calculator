@@ -220,7 +220,7 @@ namespace Maytinh
 
         private void btnCE_Clicked(object sender, EventArgs e)
         {
-            lbBieuThuc.Text = "0";
+            lbBieuThuc.Text += "%";
         }
 
         private void btnAC_Clicked(object sender, EventArgs e)
@@ -413,7 +413,7 @@ namespace Maytinh
         public string replaceWith(string expr)
         {
             string result = expr;
-            while (result.Contains("e") || result.Contains("π") || result.Contains("Ans"))
+            while (result.Contains("e") || result.Contains("π") || result.Contains("Ans") || result.Contains("%"))
             {
                 for (int i = 0; i < result.Length; i++)
                 {
@@ -434,11 +434,16 @@ namespace Maytinh
                         result = result.Substring(0, i) + result.Substring(i + 3);
                         result = result.Insert(i, ansResult.ToString());
                     }
+                    if (result[i] == '%')
+                    {
+                        result = result.Substring(0, i) + result.Substring(i + 1);
+                        result = result.Replace(result, (evalue(result)/100).ToString());
+                        break;
+                    }
                 }
             }
             return result;
         }
-
         public string calcFunc(string expr)
         {
             string result = expr;
@@ -465,7 +470,6 @@ namespace Maytinh
             string resultArcTan = "";
             int indexOfPow = expr.IndexOf("^(");
             string resultPow = "";
-
             // tinh ham so mu
             if (result.IndexOf("^(") >= 0)
             {
