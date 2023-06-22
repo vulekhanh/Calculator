@@ -124,8 +124,7 @@
                     Text="Thoát"
                     Grid.Row="5"
                     Grid.Column="1"
-                    Style="{StaticResource ButtonStyle}"
-                    CornerRadius="10"/>
+                    Style="{StaticResource ButtonStyle}"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
