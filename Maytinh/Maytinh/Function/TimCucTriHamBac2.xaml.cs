@@ -31,7 +31,7 @@ namespace Maytinh.Function
         {
             if (a == 0)
             {
-                lbKetQua1.Text = "Không có cực trị";
+                lbKetQua1.Text = " Không có cực trị";
             }
             else
             {
@@ -60,7 +60,7 @@ namespace Maytinh.Function
             }
             catch
             {
-                lbKetQua1.Text = "Lỗi biểu thức";
+                lbKetQua1.Text = " Lỗi biểu thức";
             }
             string p = lbKetQua1.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), o, p);

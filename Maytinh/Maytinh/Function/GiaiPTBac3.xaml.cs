@@ -41,17 +41,17 @@ namespace Maytinh.Function
                         {
                             if (dblGiaTriD == 0)
                             {
-                                lbKetQua1.Text = "Vô số nghiệm";
+                                lbKetQua1.Text = " Vô số nghiệm";
                             }
                             else if (dblGiaTriD != 0)
                             {
-                                lbKetQua1.Text = "Vô nghiệm";
+                                lbKetQua1.Text = " Vô nghiệm";
                             }
                         }
                         else if (dblGiaTriC != 0)
                         {
                             double fNghiem = -dblGiaTriD / dblGiaTriC;
-                            lbKetQua1.Text = "x = " + fNghiem.ToString();
+                            lbKetQua1.Text = " x = " + fNghiem.ToString();
                         }
                     }
                     else if (dblGiaTriB != 0)
@@ -59,19 +59,19 @@ namespace Maytinh.Function
                         double fD = dblGiaTriC * dblGiaTriC - 4 * dblGiaTriB * dblGiaTriD;
                         if (fD < 0)
                         {
-                            lbKetQua1.Text = "Phương trình vô nghiệm";
+                            lbKetQua1.Text = " Phương trình vô nghiệm";
                         }
                         else if (fD == 0)
                         {
                             double fNghiem = -dblGiaTriC / (2 * dblGiaTriB);
-                            lbKetQua1.Text = "x1 = x2 = " + fNghiem.ToString();
+                            lbKetQua1.Text = " x1 = x2 = " + fNghiem.ToString();
                         }
                         else
                         {
                             double fNghiem1 = (-dblGiaTriC + Math.Sqrt(fD)) / (2 * dblGiaTriB);
                             double fNghiem2 = (-dblGiaTriC - Math.Sqrt(fD)) / (2 * dblGiaTriB);
-                            lbKetQua1.Text = "x1 = " + fNghiem1.ToString();
-                            lbKetQua2.Text = "x2 = " + fNghiem2.ToString();
+                            lbKetQua1.Text = " x1 = " + fNghiem1.ToString();
+                            lbKetQua2.Text = " x2 = " + fNghiem2.ToString();
                         }
                     }
                 }
@@ -154,9 +154,9 @@ namespace Maytinh.Function
 
 
                         // Hiển thị giá trị các nghiệm
-                        lbKetQua1.Text = "x1 = " + dblGiaTriX1.ToString();
-                        lbKetQua2.Text = "x2 = " + dblVeTraiX2.ToString() + " + " + dblVePhaiX2.ToString() + "*i";
-                        lbKetQua3.Text = "x3 = " + dblVeTraiX3.ToString() + " - " + dblVePhaiX3.ToString() + "*i";
+                        lbKetQua1.Text = " x1 = " + dblGiaTriX1.ToString();
+                        lbKetQua2.Text = " x2 = " + dblVeTraiX2.ToString() + " + " + dblVePhaiX2.ToString() + "*i";
+                        lbKetQua3.Text = " x3 = " + dblVeTraiX3.ToString() + " - " + dblVePhaiX3.ToString() + "*i";
 
                     }
 
@@ -191,7 +191,7 @@ namespace Maytinh.Function
                         dblGiaTriX3 = Math.Round(dblDTrenAMu1Phan3, 8);
 
                         // Hiển thị giá trị các nghiệm
-                        lbKetQua1.Text = "x1 = x2 = x3 = " + dblGiaTriX1.ToString();
+                        lbKetQua1.Text = " x1 = x2 = x3 = " + dblGiaTriX1.ToString();
                     }
 
 
@@ -275,16 +275,16 @@ namespace Maytinh.Function
                         dblGiaTriX3 = Math.Round(dblGiaTriX3, 8);
 
                         // Hiển thị giá trị các nghiệm
-                        lbKetQua1.Text = "x1 = " + dblGiaTriX1.ToString();
-                        lbKetQua2.Text = "x2 = " + dblGiaTriX2.ToString();
-                        lbKetQua3.Text = "x3 = " + dblGiaTriX3.ToString();
+                        lbKetQua1.Text = " x1 = " + dblGiaTriX1.ToString();
+                        lbKetQua2.Text = " x2 = " + dblGiaTriX2.ToString();
+                        lbKetQua3.Text = " x3 = " + dblGiaTriX3.ToString();
 
                     }
                 }
             }
             catch
             {
-                lbKetQua1.Text = "Lỗi biểu thức";
+                lbKetQua1.Text = " Lỗi biểu thức";
             }
             string p = lbKetQua1.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), a, p);

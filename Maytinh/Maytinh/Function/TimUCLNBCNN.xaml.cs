@@ -33,11 +33,11 @@ namespace Maytinh.Function
                 double a = double.Parse(txtA.Text);
                 double b = double.Parse(txtB.Text);
                 double res = (a * b) / gcd(a, b);
-                lbKetQua.Text = "BCNN: " + res.ToString();
+                lbKetQua.Text = " BCNN: " + res.ToString();
             }
             catch
             {
-                lbKetQua.Text = "Lỗi biểu thức";
+                lbKetQua.Text = " Lỗi biểu thức";
             }
             string p = lbKetQua.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), o, p);
@@ -49,12 +49,12 @@ namespace Maytinh.Function
                 double a = double.Parse(txtA.Text);
                 double b = double.Parse(txtB.Text);
                 double res = gcd(a, b);
-                lbKetQua.Text = "UCLN: " + res.ToString();
+                lbKetQua.Text = " UCLN: " + res.ToString();
 
             }
             catch
             {
-                lbKetQua.Text = "Lỗi biểu thức";
+                lbKetQua.Text = " Lỗi biểu thức";
             }
             string p = lbKetQua.Text;
             this.dataAccess.AddLS(DateTime.Now.ToString(), o, p);
