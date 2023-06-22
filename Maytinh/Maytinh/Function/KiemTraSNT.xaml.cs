@@ -29,7 +29,7 @@ namespace Maytinh.Function
                 int a = int.Parse(txtA.Text);
                 if (a == 0 || a == 1)
                 {
-                    lbKetQua.Text = a.ToString() + " không phải số nguyên tố";
+                    lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
                 }
                 else
                 {
@@ -37,17 +37,17 @@ namespace Maytinh.Function
                     {
                         if (a % i == 0)
                         {
-                            lbKetQua.Text = a.ToString() + " không phải số nguyên tố";
+                            lbKetQua.Text = " " + a.ToString() + " không phải số nguyên tố";
                             return;
                         }
 
                     }
-                    lbKetQua.Text = a.ToString() + " là số nguyên tố";
+                    lbKetQua.Text = " " + a.ToString() + " là số nguyên tố";
                 }
             }
             catch
             {
-                lbKetQua.Text = "Lỗi biểu thức";
+                lbKetQua.Text = " Lỗi biểu thức";
             }
         }
 
